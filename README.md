@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello, my name is Jurandir Moura, I currently work and develop with the Java language for three years, I master OO, spring framework, JPA, git, github, mysql, JavaFX, I have good programming logic, communicative, proactive, results-driven, and I am able to put my academic and professional knowledge into practice.
 <!--
 **jurandirmoura/jurandirmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
