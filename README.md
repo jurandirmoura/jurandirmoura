@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hello, my name is Jurandir Moura, I currently work and develop with the Java language for three years, I master OO, spring framework, JPA, git, github, mysql, JavaFX, I have good programming logic, communicative, proactive, results-driven, and I am able to put my academic and professional knowledge into practice.
+Hello, my name is Jurandir Moura, I currently work and develop with the Java language since 2020, I master OO, spring framework, git, github, mysql, JavaFX, I have good programming logic, communicative, proactive, results-driven, always putting in Practice my professional knowledge for robust application solutions.
 
-Olá, meu nome é Jurandir Moura, atualmente trabalho e desenvolvo com a linguagem Java desde 2020, domino OO, spring framework, JPA, git, github, mysql, JavaFX, possuo boa lógica de programação, comunicativo, proativo, movido a resultados, sempre colocando em prática meus conhecimentos profissional para soluçoes de aplicações robustas.
+JPA, Olá, meu nome é Jurandir Moura, atualmente trabalho e desenvolvo com a linguagem Java desde 2020, domino OO, spring framework, git, github, mysql, JavaFX, possuo boa lógica de programação, comunicativo, proativo, movido a resultados, sempre colocando em prática meus conhecimentos profissional para soluçoes de aplicações robustas.
 <!--
 **jurandirmoura/jurandirmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
